@@ -1,5 +1,5 @@
 {
-  "version": "0.0.37",
+  "version": "0.0.37.1",
   "routines": [
     {
 	  "title": "Strength, Cardio, and Functional",
@@ -7985,7 +7985,7 @@
 		"workouts": [
 			{
 				"name": "Dumbbell Bench Press",
-				"reps": "4 x 12"
+				"reps": "4 x 10"
 			},
 			{
 				"name": "Chin-Ups",
