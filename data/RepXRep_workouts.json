@@ -1,5 +1,5 @@
 {
-  "version": "0.0.37.1",
+  "version": "0.0.37",
   "routines": [
     {
 	  "title": "Strength, Cardio, and Functional",
@@ -32,111 +32,6 @@
       ]
     },
     {
-      "title": "JPak Training Plan",
-      "subtitle": "Hybrid Athlete Training",
-      "description": "This program is designed to help improve athletic performance on court, on field, and in the ring while packing on lean functional muscle",
-      "category": "Personal Training",
-      "workoutCardNames": [
-        "Strongman & Skillwork",
-        "Power & Strength",
-        "Boxing",
-        "Max Force",
-        "Golf",
-        "Speed & Size",
-        "Active Recovery B"
-      ]
-    },
-    {
-      "title": "Kiara's Training Plan",
-      "subtitle": "Setting your foundation",
-      "description": "Starting out with a 4x/week routine, incorporating 2 strength days and 2 cardio days.",
-      "category": "Personal Training",
-      "workoutCardNames": [
-        "Lower Body Emphasis A",
-        "Mixed Modality Conditioning",
-        "Active Recovery A",
-        "Lower Body Emphasis B",
-        "4x4 Protocol",
-        "OFF",
-        "Active Recovery B"
-      ]
-    },
-    {
-      "title": "Diane's Weekly Training",
-      "subtitle": "For your health & fitness",
-      "category": "Personal Training",
-      "description": "Here's a 4x/week routine that includes 2 strength sessions and 2 cardio sessions. One strength session is more traditional, where you will complete all the sets for 1 exercise before moving onto the next. The second strength session will be more circuit-style like we usually do. Feel free to adjust the days you do them, but aim to separate strength sessions by 2 days.",
-      "workoutCardNames": [
-        "ClassPass Strength",
-        "Jog",
-        "Active Recovery B",
-        "Longevity Strength B",
-        "4x4 Protocol",
-        "Rest & Recover",
-        "OFF"
-      ]
-    },
-	{
-		"title": "Marty Training Plan",
-		"subtitle": "Born day ready",
-		"description": "Splitting up upper body days into a push/pull split and incorporating more functional training for your core and lower body to get your knee feeling right.  Use a spin bike or assault bike for Zone 2 training.",
-		"category": "Personal Training",
-		"workoutCardNames": [
-			"(PPL6) Day 1: Push A",
-			"(PPL6) Day 2: Pull A",
-			"Kettlebell Functional Training",
-			"(PPL6) Day 4: Push B",
-			"(PPL6) Day 5: Pull B",
-			"Turf Training",
-			"30min Zone 2 Cardio"
-		]
-	},
-	{
-		"title": "CCC Fitness",
-		"subtitle": "Getting Dialed",
-		"description": "Building a foundation with a hybrid fitness routine. We will start with 3 strenth and 2 cardio days per week.  If you do choose to hoop on Mondays, I'd encourage you to get your lift in on Monday morning and also leave some reps in the tank (don't max out), so that you have energy to hoop.  You can substitute Tuesday and Thursday with your swim class, but the workouts here are good cardio options for you if you can't make those.  ",
-		"category": "Personal Training",
-		"workoutCardNames": [
-			"Max Strength",
-			"30min Zone 2 Cardio",
-			"inszn Dynamic Effort",
-			"4x4 Protocol",
-			"Bodyweight Strength Endurance",
-			"Golf",
-			"Active Recovery A"
-		]
-	},
-	{
-		"title": "Stephen Workout Plan",
-		"subtitle": "살빼기",
-		"description": "This program will mix 3 strength training days with a couple of cardio days.  Everything is designed to utilize your apartment gym.  Start off light, and gradually increase weights as you feel stronger and get less sore. ",
-		"category": "Personal Training",
-		"workoutCardNames": [
-			"Home Gym Strength A",
-			"Row, Skip, Core",
-			"Home Gym Strength B",
-			"Active Recovery A",
-			"Home Gym Strength C",
-			"Easy Cardio",
-			"Recreational Activity"
-		]
-	},
-    {
-      "title": "Golf Performance Program",
-      "subtitle": "Golfers are Athletes Too",
-      "description": "The best golfers in the world train in the gym to improve their strength, stability, and mobility to stay on top of their games.  You can too with this routine that blends full body strength training with dynamic mobility and cardio routines.",
-      "category": "Athletic Performance",
-      "workoutCardNames": [
-        "Golf Strength A",
-        "Golf Dynamic Mobility",
-        "Golf Strength B",
-        "Golf Dynamic Mobility",
-        "Golf",
-        "Golf Strength C",
-        "Golf"
-      ]
-    },
-    {
       "title": "Multi-sport Performance",
       "subtitle": "Functional Strength and Conditioning",
       "description": "Building general athleticism to stay ready for the various sports you play.  This plan utilizes a concurrent training philosophy where we build strength, power, and endurance simultaneously in a single training split.",
@@ -151,6 +46,21 @@
         "Rest & Recover"
       ]
     },
+	{
+		"title": "Golf Performance Program",
+		"subtitle": "Golfers are Athletes Too",
+		"description": "The best golfers in the world train in the gym to improve their strength, stability, and mobility to stay on top of their games.  You can too with this routine that blends full body strength training with dynamic mobility and cardio routines.",
+		"category": "Athletic Performance",
+		"workoutCardNames": [
+			"Golf Strength A",
+			"Golf Dynamic Mobility",
+			"Golf Strength B",
+			"Golf Dynamic Mobility",
+			"Golf",
+			"Golf Strength C",
+			"Golf"
+		]
+	},
     {
       "title": "OFFSEASON ATHLETE",
       "subtitle": "Driving performance and physique",
@@ -7985,7 +7895,7 @@
 		"workouts": [
 			{
 				"name": "Dumbbell Bench Press",
-				"reps": "4 x 10"
+				"reps": "4 x 12"
 			},
 			{
 				"name": "Chin-Ups",
