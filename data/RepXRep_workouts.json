@@ -2,21 +2,21 @@
   "version": "0.0.38",
   "routines": [
     {
-    "title": "Strength, Cardio, and Functional",
-    "subtitle": "Elevate Your Strength, Cardio, and Functional Fitness with a Varied 7-Day Program",
-    "description": "Embark on a 7-day fitness challenge with a mix of strength, cardio, and functional exercises. It's a straightforward approach to elevate your fitness routine without the frills.",
-    "category": "FEATURED",
-    "workoutCardNames": [
-      "UPPER_BODY_STRENGTH_VARIATION",
-      "LOWER_BODY_STRENGTH_VARIATION",
-      "REST_OR_ACTIVE_RECOVERY_VARIATION",
-      "FULL_BODY_POWER_CONDITIONING_VARIATION",
-      "ACTIVE_RECOVERY_CONDITIONING_VARIATION",
-      "FUNCTIONAL_TRAINING_CORE_VARIATION",
-      "CARDIO_MOBILITY_VARIATION"
-    ]
+      "title": "Strength, Cardio, and Functional",
+      "subtitle": "Elevate Your Strength, Cardio, and Functional Fitness with a Varied 7-Day Program",
+      "description": "Embark on a 7-day fitness challenge with a mix of strength, cardio, and functional exercises. It's a straightforward approach to elevate your fitness routine without the frills.",
+      "category": "FEATURED",
+      "workoutCardNames": [
+        "UPPER_BODY_STRENGTH_VARIATION",
+        "LOWER_BODY_STRENGTH_VARIATION",
+        "REST_OR_ACTIVE_RECOVERY_VARIATION",
+        "FULL_BODY_POWER_CONDITIONING_VARIATION",
+        "ACTIVE_RECOVERY_CONDITIONING_VARIATION",
+        "FUNCTIONAL_TRAINING_CORE_VARIATION",
+        "CARDIO_MOBILITY_VARIATION"
+      ]
     },
-  {
+    {
       "title": "Abbott Performance Program",
       "subtitle": "Functional Strength and Conditioning",
       "description": "Optimizing the sport performance program for your basketball schedule.",
@@ -46,36 +46,36 @@
         "Rest & Recover"
       ]
     },
-  {
-    "title": "Strength and Cardio Variation",
-    "subtitle": "Change Your Strength and Cardio Fitness with a Varied 7-Day Program",
-    "description": "Experience a dynamic 7-day workout plan designed to sculpt and strengthen your entire body. From intense upper body sessions to invigorating cardio and targeted strength routines, this plan offers a diverse and effective fitness experience.",
-    "category": "FEATURED",
-    "workoutCardNames": [
-      "UPPER_BODY_STRENGTH_VARIATION_2",
-      "LOWER_BODY_STRENGTH_VARIATION_2",
-      "REST_OR_ACTIVE_RECOVERY_VARIATION_2",
-      "ACTIVE_RECOVERY_CONDITIONING_VARIATION_2",
-      "FULL_BODY_POWER_CONDITIONING_VARIATION_2",
-      "FUNCTIONAL_TRAINING_CORE_VARIATION_2",
-      "CARDIO_MOBILITY_VARIATION_2"
-    ]
-  },
-  {
-    "title": "Golf Performance Program",
-    "subtitle": "Golfers are Athletes Too",
-    "description": "The best golfers in the world train in the gym to improve their strength, stability, and mobility to stay on top of their games.  You can too with this routine that blends full body strength training with dynamic mobility and cardio routines.",
-    "category": "Athletic Performance",
-    "workoutCardNames": [
-      "Golf Strength A",
-      "Golf Dynamic Mobility",
-      "Golf Strength B",
-      "Golf Dynamic Mobility",
-      "Golf",
-      "Golf Strength C",
-      "Golf"
-    ]
-  },
+    {
+      "title": "Strength and Cardio Variation",
+      "subtitle": "Change Your Strength and Cardio Fitness with a Varied 7-Day Program",
+      "description": "Experience a dynamic 7-day workout plan designed to sculpt and strengthen your entire body. From intense upper body sessions to invigorating cardio and targeted strength routines, this plan offers a diverse and effective fitness experience.",
+      "category": "FEATURED",
+      "workoutCardNames": [
+        "UPPER_BODY_STRENGTH_VARIATION_2",
+        "LOWER_BODY_STRENGTH_VARIATION_2",
+        "REST_OR_ACTIVE_RECOVERY_VARIATION_2",
+        "ACTIVE_RECOVERY_CONDITIONING_VARIATION_2",
+        "FULL_BODY_POWER_CONDITIONING_VARIATION_2",
+        "FUNCTIONAL_TRAINING_CORE_VARIATION_2",
+        "CARDIO_MOBILITY_VARIATION_2"
+      ]
+    },
+    {
+      "title": "Golf Performance Program",
+      "subtitle": "Golfers are Athletes Too",
+      "description": "The best golfers in the world train in the gym to improve their strength, stability, and mobility to stay on top of their games.  You can too with this routine that blends full body strength training with dynamic mobility and cardio routines.",
+      "category": "Athletic Performance",
+      "workoutCardNames": [
+        "Golf Strength A",
+        "Golf Dynamic Mobility",
+        "Golf Strength B",
+        "Golf Dynamic Mobility",
+        "Golf",
+        "Golf Strength C",
+        "Golf"
+      ]
+    },
     {
       "title": "OFFSEASON ATHLETE",
       "subtitle": "Driving performance and physique",
@@ -7903,292 +7903,385 @@
         }
       ]
     },
-  {
-    "id": "UPPER_BODY_STRENGTH_VARIATION",
-    "name": "Upper Body Strength",
-    "watchActivityType": "traditionalStrengthTraining",
-    "workouts": [
-      {
-        "name": "Dumbbell Bench Press",
-        "reps": "4 x 12"
-      },
-      {
-        "name": "Chin-Ups",
-        "reps": "3 x max"
-      },
-      {
-        "name": "Dumbbell Reverse Flyes",
-        "reps": "3 x 15"
-      },
-      {
-        "name": "Overhead Tricep Extension",
-        "reps": "3 x 12"
-      },
-      {
-        "name": "Alternating Hammer Curls",
-        "reps": "4 x 10"
-      },
-      {
-        "name": "Side Plank with Rotation",
-        "reps": "3 x 20 seconds each side"
-      }
-    ],
-    "description": "Strengthen your upper body with a variety of exercises, including Dumbbell Bench Press, Chin-Ups, and Hammer Curls. Target triceps and core stability with Overhead Tricep Extension and Side Plank with Rotation."
-  },
-  {
-    "id": "LOWER_BODY_STRENGTH_VARIATION",
-    "name": "Lower Body Strength",
-    "watchActivityType": "traditionalStrengthTraining",
-    "workouts": [
-      {
-        "name": "Front Squats",
-        "reps": "4 x 10"
-      },
-      {
-        "name": "Single-Leg Romanian Deadlift",
-        "reps": "3 x 12 each leg"
-      },
-      {
-        "name": "Step-Ups",
-        "reps": "3 x 20 steps"
-      },
-      {
-        "name": "Leg Press Machine",
-        "reps": "3 x 15"
-      },
-      {
-        "name": "Seated Calf Raises",
-        "reps": "4 x 12"
-      },
-      {
-        "name": "Russian Twists with Medicine Ball",
-        "reps": "3 x 20"
-      }
-    ],
-    "description": "Focus on building lower body strength with Front Squats, Romanian Deadlifts, and Step-Ups. Enhance calf muscles and core with exercises like Seated Calf Raises and Russian Twists."
-  },
-  {
-    "id": "REST_OR_ACTIVE_RECOVERY_VARIATION",
-    "name": "Rest or Active Recovery",
-    "watchActivityType": "open",
-    "workouts": [
-      {
-        "name": "Rest day or Light Activity (Walking, Cycling)",
-        "reps": "As needed"
-      },
-      {
-        "name": "Foam Rolling or Stretching",
-        "reps": "1 session"
-      },
-      {
-        "name": "Mindful Activities (Yoga, Meditation)",
-        "reps": "1 session"
-      }
-    ],
-    "description": "Take a break with a rest day or engage in light activities like walking or cycling. Enhance recovery with foam rolling or stretching. Practice mindfulness with activities such as yoga or meditation."
-  },
-  {
-    "id": "ACTIVE_RECOVERY_CONDITIONING_VARIATION",
-    "name": "Active Recovery and Conditioning",
-    "watchActivityType": "running",
-    "workouts": [
-      {
-        "name": "Swimming or Light Jog",
-        "reps": "30 minutes"
-      },
-      {
-        "name": "Yoga or Stretching",
-        "reps": "1 session"
-      },
-      {
-        "name": "Cycling",
-        "reps": "30 minutes"
-      },
-      {
-        "name": "Mobility Drills",
-        "reps": "1 session"
-      }
-    ],
-    "description": "Promote recovery with low-impact activities like swimming or light jogging. Improve flexibility with yoga, engage in cardio through cycling, and enhance mobility with drills."
-  },
-  {
-    "id": "FULL_BODY_POWER_CONDITIONING_VARIATION",
-    "name": "Full Body Power and Conditioning",
-    "watchActivityType": "highIntensityIntervalTraining",
-    "workouts": [
-      {
-        "name": "Clean and Press",
-        "reps": "4 x 6"
-      },
-      {
-        "name": "Box Jumps",
-        "reps": "3 x 15"
-      },
-      {
-        "name": "Dumbbell Hammer Curls",
-        "reps": "3 x 10"
-      },
-      {
-        "name": "Battle Ropes Variations",
-        "reps": "3 x 30 seconds"
-      },
-      {
-        "name": "Mountain Climbers with Sliders",
-        "reps": "3 x 20"
-      },
-      {
-        "name": "Medicine Ball Overhead Slam",
-        "reps": "3 x 15"
-      },
-      {
-        "name": "Sled Push",
-        "reps": "3 x 20 yards"
-      }
-    ],
-    "description": "Ignite your full body with explosive power and conditioning. This workout includes Clean and Press, Box Jumps, and targeted exercises for biceps, ensuring a challenging and dynamic session."
-  },
-  {
-    "id": "FUNCTIONAL_TRAINING_CORE_VARIATION",
-    "name": "Functional Training and Core",
-    "watchActivityType": "functionalStrengthTraining",
-    "workouts": [
-      {
-        "name": "TRX Rows",
-        "reps": "3 x 12"
-      },
-      {
-        "name": "Bulgarian Split Squats",
-        "reps": "3 x 12 each leg"
-      },
-      {
-        "name": "Dumbbell Spider Curls",
-        "reps": "3 x 15"
-      },
-      {
-        "name": "Plank with Alternating Leg Raises",
-        "reps": "3 x 20"
-      },
-      {
-        "name": "Seated Dumbbell Tricep Extensions",
-        "reps": "3 x 12"
-      },
-      {
-        "name": "Hanging Leg Raises",
-        "reps": "3 x 15"
-      },
-      {
-        "name": "Turkish Get-ups",
-        "reps": "3 x 8 each side"
-      }
-    ],
-    "description": "Enhance functional strength with TRX Rows and Bulgarian Split Squats. Target biceps with Dumbbell Spider Curls and build core stability with exercises like Plank and Turkish Get-ups."
-  },
-  {
-    "id": "CARDIO_MOBILITY_VARIATION",
-    "name": "Cardio and Mobility",
-    "watchActivityType": "open",
-    "workouts": [
-      {
-        "name": "Elliptical",
-        "reps": "30 minutes"
-      },
-      {
-        "name": "Foam Rolling - Lower Body",
-        "reps": "1 session"
-      },
-      {
-        "name": "Dynamic Stretching Routine",
-        "reps": "1 session"
-      }
-    ],
-    "description": "Combine cardio and mobility for a well-rounded session. Boost cardiovascular fitness with the Elliptical and improve flexibility with targeted foam rolling and dynamic stretching routines."
-  },
-  {
-    "id": "UPPER_BODY_STRENGTH_VARIATION_2",
-    "name": "Upper Body Strength",
-    "watchActivityType": "traditionalStrengthTraining",
-    "workouts": [
-      {"name": "Barbell Bench Press", "reps": "4 x 10"},
-      {"name": "Pull-Ups", "reps": "3 x max"},
-      {"name": "Dumbbell Rows", "reps": "3 x 15"},
-      {"name": "Tricep Kickbacks", "reps": "3 x 12 each arm"},
-      {"name": "Zottman Curls", "reps": "4 x 10"},
-      {"name": "Plank with Hip Dips", "reps": "3 x 20 seconds each side"}
-    ],
-    "description": "Build upper body strength with classic exercises like Barbell Bench Press and Pull-Ups. Target your back with Dumbbell Rows and focus on triceps with Tricep Kickbacks. Enhance forearm strength with Zottman Curls and finish with core stability in Plank with Hip Dips."
-  },
-  {
-    "id": "LOWER_BODY_STRENGTH_VARIATION_2",
-    "name": "Lower Body Strength",
-    "watchActivityType": "traditionalStrengthTraining",
-    "workouts": [
-      {"name": "Goblet Squats", "reps": "4 x 12"},
-      {"name": "Romanian Deadlift", "reps": "3 x 12"},
-      {"name": "Lateral Lunges", "reps": "3 x 15 each leg"},
-      {"name": "Calf Raises on Smith Machine", "reps": "3 x 20"},
-      {"name": "Reverse Crunches", "reps": "4 x 15"},
-      {"name": "Russian Twists with Weight Plate", "reps": "3 x 20"}
-    ],
-    "description": "Focus on lower body strength with Goblet Squats and Romanian Deadlift. Enhance leg muscles with Lateral Lunges and Calf Raises. Work on your core with Reverse Crunches and Russian Twists using a Weight Plate."
-  },
-  {
-    "id": "REST_OR_ACTIVE_RECOVERY_VARIATION_2",
-    "name": "Rest or Active Recovery",
-    "watchActivityType": "rest",
-    "workouts": [
-      {"name": "Foam Rolling - Upper Body", "reps": "1 session"},
-      {"name": "Mindful Activities (Nature Walk, Meditation)", "reps": "1 session"}
-    ],
-    "description": "Take a break with a rest day or engage in light activities like cycling or swimming. Release tension in the upper body with foam rolling and practice mindfulness with activities such as a nature walk or meditation."
-  },
-  {
-    "id": "ACTIVE_RECOVERY_CONDITIONING_VARIATION_2",
-    "name": "Active Recovery and Conditioning",
-    "watchActivityType": "open",
-    "workouts": [
-      {"name": "Dynamic Stretching Routine", "reps": "1 session"}
-    ],
-    "description": "Opt for active recovery with a rowing session and enhance flexibility with Pilates or Yoga. Improve cardiovascular health with Jump Rope and incorporate dynamic stretches for overall conditioning."
-  },
-  {
-    "id": "FULL_BODY_POWER_CONDITIONING_VARIATION_2",
-    "name": "Day 5: Full Body Power and Conditioning",
-    "watchActivityType": "highIntensityIntervalTraining",
-    "workouts": [
-      {"name": "Snatch", "reps": "4 x 8"},
-      {"name": "Box Jumps with 180-Degree Turn", "reps": "3 x 12"},
-      {"name": "Close Grip Bench Press", "reps": "3 x 12"},
-      {"name": "Battle Ropes Waves", "reps": "3 x 30 seconds"},
-      {"name": "Plank to Pike", "reps": "3 x 15"},
-      {"name": "Sled Pull", "reps": "3 x 20 yards"}
-    ],
-    "description": "Ignite full-body power with dynamic exercises like Snatch and Box Jumps with 180-Degree Turn. Focus on triceps with Close Grip Bench Press and challenge core strength with Plank to Pike. Conclude with the intensity of Sled Pulls."
-  },
-  {
-    "id": "FUNCTIONAL_TRAINING_CORE_VARIATION_2",
-    "name": "Functional Training and Core",
-    "watchActivityType": "functionalStrengthTraining",
-    "workouts": [
-      {"name": "Kettlebell Renegade Rows", "reps": "3 x 12 each arm"},
-      {"name": "Lunges with Medicine Ball Rotation", "reps": "3 x 12 each leg"},
-      {"name": "Dumbbell Bicep Curls", "reps": "3 x 15"},
-      {"name": "Plank with Knee to Elbow", "reps": "3 x 20"},
-      {"name": "Tricep Dips on Parallel Bars", "reps": "3 x 12"},
-      {"name": "Leg Raises with Stability Ball", "reps": "3 x 15"},
-      {"name": "Russian Twists with Kettlebell", "reps": "3 x 20"}
-    ],
-    "description": "Integrate functional strength with Kettlebell Renegade Rows and Lunges with Medicine Ball Rotation. Focus on biceps with Dumbbell Bicep Curls and target triceps with Tricep Dips. Strengthen core muscles with Plank variations and Russian Twists using a Kettlebell."
-  },
-  {
-    "id": "CARDIO_MOBILITY_VARIATION_2",
-    "name": "Cardio and Mobility",
-    "watchActivityType": "open",
-    "workouts": [
-      {"name": "Stair Climber", "reps": "30 minutes"},
-      {"name": "Foam Rolling - Upper and Lower Body", "reps": "1 session"},
-      {"name": "Static Stretching Routine", "reps": "1 session"}
-    ],
-    "description": "Elevate your heart rate with the Stair Climber and promote flexibility with targeted foam rolling on both upper and lower body. Complete the session with a calming static stretching routine."
-  }
+    {
+      "id": "UPPER_BODY_STRENGTH_VARIATION",
+      "name": "Upper Body Strength",
+      "watchActivityType": "traditionalStrengthTraining",
+      "workouts": [
+        {
+          "name": "Dumbbell Bench Press",
+          "reps": "4 x 12"
+        },
+        {
+          "name": "Chin-Ups",
+          "reps": "3 x max"
+        },
+        {
+          "name": "Dumbbell Reverse Flyes",
+          "reps": "3 x 15"
+        },
+        {
+          "name": "Overhead Tricep Extension",
+          "reps": "3 x 12"
+        },
+        {
+          "name": "Alternating Hammer Curls",
+          "reps": "4 x 10"
+        },
+        {
+          "name": "Side Plank with Rotation",
+          "reps": "3 x 20 seconds each side"
+        }
+      ],
+      "description": "Strengthen your upper body with a variety of exercises, including Dumbbell Bench Press, Chin-Ups, and Hammer Curls. Target triceps and core stability with Overhead Tricep Extension and Side Plank with Rotation."
+    },
+    {
+      "id": "LOWER_BODY_STRENGTH_VARIATION",
+      "name": "Lower Body Strength",
+      "watchActivityType": "traditionalStrengthTraining",
+      "workouts": [
+        {
+          "name": "Front Squats",
+          "reps": "4 x 10"
+        },
+        {
+          "name": "Single-Leg Romanian Deadlift",
+          "reps": "3 x 12 each leg"
+        },
+        {
+          "name": "Step-Ups",
+          "reps": "3 x 20 steps"
+        },
+        {
+          "name": "Leg Press Machine",
+          "reps": "3 x 15"
+        },
+        {
+          "name": "Seated Calf Raises",
+          "reps": "4 x 12"
+        },
+        {
+          "name": "Russian Twists with Medicine Ball",
+          "reps": "3 x 20"
+        }
+      ],
+      "description": "Focus on building lower body strength with Front Squats, Romanian Deadlifts, and Step-Ups. Enhance calf muscles and core with exercises like Seated Calf Raises and Russian Twists."
+    },
+    {
+      "id": "REST_OR_ACTIVE_RECOVERY_VARIATION",
+      "name": "Rest or Active Recovery",
+      "watchActivityType": "open",
+      "workouts": [
+        {
+          "name": "Rest day or Light Activity (Walking, Cycling)",
+          "reps": "As needed"
+        },
+        {
+          "name": "Foam Rolling or Stretching",
+          "reps": "1 session"
+        },
+        {
+          "name": "Mindful Activities (Yoga, Meditation)",
+          "reps": "1 session"
+        }
+      ],
+      "description": "Take a break with a rest day or engage in light activities like walking or cycling. Enhance recovery with foam rolling or stretching. Practice mindfulness with activities such as yoga or meditation."
+    },
+    {
+      "id": "ACTIVE_RECOVERY_CONDITIONING_VARIATION",
+      "name": "Active Recovery and Conditioning",
+      "watchActivityType": "running",
+      "workouts": [
+        {
+          "name": "Swimming or Light Jog",
+          "reps": "30 minutes"
+        },
+        {
+          "name": "Yoga or Stretching",
+          "reps": "1 session"
+        },
+        {
+          "name": "Cycling",
+          "reps": "30 minutes"
+        },
+        {
+          "name": "Mobility Drills",
+          "reps": "1 session"
+        }
+      ],
+      "description": "Promote recovery with low-impact activities like swimming or light jogging. Improve flexibility with yoga, engage in cardio through cycling, and enhance mobility with drills."
+    },
+    {
+      "id": "FULL_BODY_POWER_CONDITIONING_VARIATION",
+      "name": "Full Body Power and Conditioning",
+      "watchActivityType": "highIntensityIntervalTraining",
+      "workouts": [
+        {
+          "name": "Clean and Press",
+          "reps": "4 x 6"
+        },
+        {
+          "name": "Box Jumps",
+          "reps": "3 x 15"
+        },
+        {
+          "name": "Dumbbell Hammer Curls",
+          "reps": "3 x 10"
+        },
+        {
+          "name": "Battle Ropes Variations",
+          "reps": "3 x 30 seconds"
+        },
+        {
+          "name": "Mountain Climbers with Sliders",
+          "reps": "3 x 20"
+        },
+        {
+          "name": "Medicine Ball Overhead Slam",
+          "reps": "3 x 15"
+        },
+        {
+          "name": "Sled Push",
+          "reps": "3 x 20 yards"
+        }
+      ],
+      "description": "Ignite your full body with explosive power and conditioning. This workout includes Clean and Press, Box Jumps, and targeted exercises for biceps, ensuring a challenging and dynamic session."
+    },
+    {
+      "id": "FUNCTIONAL_TRAINING_CORE_VARIATION",
+      "name": "Functional Training and Core",
+      "watchActivityType": "functionalStrengthTraining",
+      "workouts": [
+        {
+          "name": "TRX Rows",
+          "reps": "3 x 12"
+        },
+        {
+          "name": "Bulgarian Split Squats",
+          "reps": "3 x 12 each leg"
+        },
+        {
+          "name": "Dumbbell Spider Curls",
+          "reps": "3 x 15"
+        },
+        {
+          "name": "Plank with Alternating Leg Raises",
+          "reps": "3 x 20"
+        },
+        {
+          "name": "Seated Dumbbell Tricep Extensions",
+          "reps": "3 x 12"
+        },
+        {
+          "name": "Hanging Leg Raises",
+          "reps": "3 x 15"
+        },
+        {
+          "name": "Turkish Get-ups",
+          "reps": "3 x 8 each side"
+        }
+      ],
+      "description": "Enhance functional strength with TRX Rows and Bulgarian Split Squats. Target biceps with Dumbbell Spider Curls and build core stability with exercises like Plank and Turkish Get-ups."
+    },
+    {
+      "id": "CARDIO_MOBILITY_VARIATION",
+      "name": "Cardio and Mobility",
+      "watchActivityType": "open",
+      "workouts": [
+        {
+          "name": "Elliptical",
+          "reps": "30 minutes"
+        },
+        {
+          "name": "Foam Rolling - Lower Body",
+          "reps": "1 session"
+        },
+        {
+          "name": "Dynamic Stretching Routine",
+          "reps": "1 session"
+        }
+      ],
+      "description": "Combine cardio and mobility for a well-rounded session. Boost cardiovascular fitness with the Elliptical and improve flexibility with targeted foam rolling and dynamic stretching routines."
+    },
+    {
+      "id": "UPPER_BODY_STRENGTH_VARIATION_2",
+      "name": "Upper Body Strength",
+      "watchActivityType": "traditionalStrengthTraining",
+      "workouts": [
+        {
+          "name": "Barbell Bench Press",
+          "reps": "4 x 10"
+        },
+        {
+          "name": "Pull-Ups",
+          "reps": "3 x max"
+        },
+        {
+          "name": "Dumbbell Rows",
+          "reps": "3 x 15"
+        },
+        {
+          "name": "Tricep Kickbacks",
+          "reps": "3 x 12 each arm"
+        },
+        {
+          "name": "Zottman Curls",
+          "reps": "4 x 10"
+        },
+        {
+          "name": "Plank with Hip Dips",
+          "reps": "3 x 20 seconds each side"
+        }
+      ],
+      "description": "Build upper body strength with classic exercises like Barbell Bench Press and Pull-Ups. Target your back with Dumbbell Rows and focus on triceps with Tricep Kickbacks. Enhance forearm strength with Zottman Curls and finish with core stability in Plank with Hip Dips."
+    },
+    {
+      "id": "LOWER_BODY_STRENGTH_VARIATION_2",
+      "name": "Lower Body Strength",
+      "watchActivityType": "traditionalStrengthTraining",
+      "workouts": [
+        {
+          "name": "Goblet Squats",
+          "reps": "4 x 12"
+        },
+        {
+          "name": "Romanian Deadlift",
+          "reps": "3 x 12"
+        },
+        {
+          "name": "Lateral Lunges",
+          "reps": "3 x 15 each leg"
+        },
+        {
+          "name": "Calf Raises on Smith Machine",
+          "reps": "3 x 20"
+        },
+        {
+          "name": "Reverse Crunches",
+          "reps": "4 x 15"
+        },
+        {
+          "name": "Russian Twists with Weight Plate",
+          "reps": "3 x 20"
+        }
+      ],
+      "description": "Focus on lower body strength with Goblet Squats and Romanian Deadlift. Enhance leg muscles with Lateral Lunges and Calf Raises. Work on your core with Reverse Crunches and Russian Twists using a Weight Plate."
+    },
+    {
+      "id": "REST_OR_ACTIVE_RECOVERY_VARIATION_2",
+      "name": "Rest or Active Recovery",
+      "watchActivityType": "open",
+      "workouts": [
+        {
+          "name": "Foam Rolling - Upper Body",
+          "reps": "1 session"
+        },
+        {
+          "name": "Mindful Activities (Nature Walk, Meditation)",
+          "reps": "1 session"
+        }
+      ],
+      "description": "Take a break with a rest day or engage in light activities like cycling or swimming. Release tension in the upper body with foam rolling and practice mindfulness with activities such as a nature walk or meditation."
+    },
+    {
+      "id": "ACTIVE_RECOVERY_CONDITIONING_VARIATION_2",
+      "name": "Active Recovery and Conditioning",
+      "watchActivityType": "open",
+      "workouts": [
+        {
+          "name": "Dynamic Stretching Routine",
+          "reps": "1 session"
+        }
+      ],
+      "description": "Opt for active recovery with a rowing session and enhance flexibility with Pilates or Yoga. Improve cardiovascular health with Jump Rope and incorporate dynamic stretches for overall conditioning."
+    },
+    {
+      "id": "FULL_BODY_POWER_CONDITIONING_VARIATION_2",
+      "name": "Day 5: Full Body Power and Conditioning",
+      "watchActivityType": "highIntensityIntervalTraining",
+      "workouts": [
+        {
+          "name": "Snatch",
+          "reps": "4 x 8"
+        },
+        {
+          "name": "Box Jumps with 180-Degree Turn",
+          "reps": "3 x 12"
+        },
+        {
+          "name": "Close Grip Bench Press",
+          "reps": "3 x 12"
+        },
+        {
+          "name": "Battle Ropes Waves",
+          "reps": "3 x 30 seconds"
+        },
+        {
+          "name": "Plank to Pike",
+          "reps": "3 x 15"
+        },
+        {
+          "name": "Sled Pull",
+          "reps": "3 x 20 yards"
+        }
+      ],
+      "description": "Ignite full-body power with dynamic exercises like Snatch and Box Jumps with 180-Degree Turn. Focus on triceps with Close Grip Bench Press and challenge core strength with Plank to Pike. Conclude with the intensity of Sled Pulls."
+    },
+    {
+      "id": "FUNCTIONAL_TRAINING_CORE_VARIATION_2",
+      "name": "Functional Training and Core",
+      "watchActivityType": "functionalStrengthTraining",
+      "workouts": [
+        {
+          "name": "Kettlebell Renegade Rows",
+          "reps": "3 x 12 each arm"
+        },
+        {
+          "name": "Lunges with Medicine Ball Rotation",
+          "reps": "3 x 12 each leg"
+        },
+        {
+          "name": "Dumbbell Bicep Curls",
+          "reps": "3 x 15"
+        },
+        {
+          "name": "Plank with Knee to Elbow",
+          "reps": "3 x 20"
+        },
+        {
+          "name": "Tricep Dips on Parallel Bars",
+          "reps": "3 x 12"
+        },
+        {
+          "name": "Leg Raises with Stability Ball",
+          "reps": "3 x 15"
+        },
+        {
+          "name": "Russian Twists with Kettlebell",
+          "reps": "3 x 20"
+        }
+      ],
+      "description": "Integrate functional strength with Kettlebell Renegade Rows and Lunges with Medicine Ball Rotation. Focus on biceps with Dumbbell Bicep Curls and target triceps with Tricep Dips. Strengthen core muscles with Plank variations and Russian Twists using a Kettlebell."
+    },
+    {
+      "id": "CARDIO_MOBILITY_VARIATION_2",
+      "name": "Cardio and Mobility",
+      "watchActivityType": "open",
+      "workouts": [
+        {
+          "name": "Stair Climber",
+          "reps": "30 minutes"
+        },
+        {
+          "name": "Foam Rolling - Upper and Lower Body",
+          "reps": "1 session"
+        },
+        {
+          "name": "Static Stretching Routine",
+          "reps": "1 session"
+        }
+      ],
+      "description": "Elevate your heart rate with the Stair Climber and promote flexibility with targeted foam rolling on both upper and lower body. Complete the session with a calming static stretching routine."
+    }
   ]
 }
