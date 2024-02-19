@@ -1,5 +1,5 @@
 {
-  "version": "0.0.38",
+  "version": "0.0.39.2",
   "routines": [
     {
       "title": "Strength, Cardio, and Functional",
@@ -17,18 +17,18 @@
       ]
     },
     {
-      "title": "Abbott Performance Program",
-      "subtitle": "Functional Strength and Conditioning",
-      "description": "Optimizing the sport performance program for your basketball schedule.",
+      "title": "Versatile Strength",
+      "subtitle": "Change Your Strength and Recovery with a Varied 7-Day Program",
+      "description": "Experience a versatile fitness adventure with the \"Versatile Strength Series.\" This well-rounded workout plan combines a mix of traditional strength training, dynamic conditioning, and targeted core exercises, providing a balanced and engaging fitness routine. Elevate your fitness journey with diverse workouts that cater to various muscle groups, ensuring a comprehensive and effective approach to achieving your strength and conditioning goals.",
       "category": "FEATURED",
       "workoutCardNames": [
-        "Dynamic Effort Strength",
-        "45min Zone 2 Cardio",
-        "inszn max strength",
-        "Rest & Recover",
-        "post-boxing strength",
-        "Recreational Activity",
-        "shoot + strength"
+        "UPPER_BODY_STRENGTH_VARIATION_3",
+        "LOWER_BODY_STRENGTH_VARIATION_3",
+        "REST_OR_ACTIVE_RECOVERY_VARIATION_3",
+        "FULL_BODY_POWER_CONDITIONING_VARIATION_3",
+        "ACTIVE_RECOVERY_CONDITIONING_VARIATION_3",
+        "FUNCTIONAL_TRAINING_CORE_VARIATION_3",
+        "CARDIO_MOBILITY_VARIATION_3"
       ]
     },
     {
@@ -55,8 +55,8 @@
         "UPPER_BODY_STRENGTH_VARIATION_2",
         "LOWER_BODY_STRENGTH_VARIATION_2",
         "REST_OR_ACTIVE_RECOVERY_VARIATION_2",
-        "ACTIVE_RECOVERY_CONDITIONING_VARIATION_2",
         "FULL_BODY_POWER_CONDITIONING_VARIATION_2",
+        "ACTIVE_RECOVERY_CONDITIONING_VARIATION_2",
         "FUNCTIONAL_TRAINING_CORE_VARIATION_2",
         "CARDIO_MOBILITY_VARIATION_2"
       ]
@@ -134,6 +134,21 @@
         "Tabatas",
         "Longevity Strength C",
         "Rest & Recover"
+      ]
+    },
+    {
+      "title": "Abbott Performance Program",
+      "subtitle": "Functional Strength and Conditioning",
+      "description": "Optimizing the sport performance program for your basketball schedule.",
+      "category": "General Fitness",
+      "workoutCardNames": [
+        "Dynamic Effort Strength",
+        "45min Zone 2 Cardio",
+        "inszn max strength",
+        "Rest & Recover",
+        "post-boxing strength",
+        "Recreational Activity",
+        "shoot + strength"
       ]
     },
     {
@@ -8128,8 +8143,7 @@
         },
         {
           "name": "Zottman Curls",
-          "reps": "4 x 10",
-          "url": "https://www.youtube.com/watch?v=wrjEdVZrkhk"
+          "reps": "4 x 10"
         },
         {
           "name": "Plank with Hip Dips",
@@ -8200,7 +8214,7 @@
     },
     {
       "id": "FULL_BODY_POWER_CONDITIONING_VARIATION_2",
-      "name": "Full Body Power and Conditioning",
+      "name": "Day 5: Full Body Power and Conditioning",
       "watchActivityType": "highIntensityIntervalTraining",
       "workouts": [
         {
@@ -8285,6 +8299,202 @@
         }
       ],
       "description": "Elevate your heart rate with the Stair Climber and promote flexibility with targeted foam rolling on both upper and lower body. Complete the session with a calming static stretching routine."
+    },
+    {
+      "id": "UPPER_BODY_STRENGTH_VARIATION_3",
+      "name": "Upper Body Strength",
+      "watchActivityType": "traditionalStrengthTraining",
+      "workouts": [
+        {
+          "name": "Incline Dumbbell Press",
+          "reps": "4 x 10"
+        },
+        {
+          "name": "Lat Pulldowns",
+          "reps": "3 x 12"
+        },
+        {
+          "name": "Renegade Rows",
+          "reps": "3 x 15"
+        },
+        {
+          "name": "Skull Crushers",
+          "reps": "3 x 12"
+        },
+        {
+          "name": "Reverse Grip Barbell Curls",
+          "reps": "4 x 10"
+        },
+        {
+          "name": "Plank with Knee Tucks",
+          "reps": "3 x 20 seconds each side"
+        }
+      ],
+      "description": "Build upper body strength with Incline Dumbbell Press and target the back with Lat Pulldowns. Enhance core stability with Renegade Rows and focus on triceps with Skull Crushers. Develop forearms with Reverse Grip Barbell Curls and finish with Plank with Knee Tucks for core engagement."
+    },
+    {
+      "id": "LOWER_BODY_STRENGTH_VARIATION_3",
+      "name": "Lower Body Strength",
+      "watchActivityType": "traditionalStrengthTraining",
+      "workouts": [
+        {
+          "name": "Hack Squats",
+          "reps": "4 x 12"
+        },
+        {
+          "name": "Sumo Deadlifts",
+          "reps": "3 x 10"
+        },
+        {
+          "name": "Side Lunges",
+          "reps": "3 x 15 each leg"
+        },
+        {
+          "name": "Standing Calf Raises",
+          "reps": "3 x 20"
+        },
+        {
+          "name": "Leg Raises",
+          "reps": "4 x 15"
+        },
+        {
+          "name": "Russian Twists with Medicine Ball",
+          "reps": "3 x 20"
+        }
+      ],
+      "description": "Focus on lower body strength with Hack Squats and Sumo Deadlifts. Enhance leg muscles with Side Lunges and Standing Calf Raises. Work on your core with Leg Raises and Russian Twists using a Medicine Ball."
+    },
+    {
+      "id": "REST_OR_ACTIVE_RECOVERY_VARIATION_3",
+      "name": "Rest or Active Recovery",
+      "watchActivityType": "open",
+      "workouts": [
+        {
+          "name": "Rest day or Light Activity (Yoga, Cycling)",
+          "reps": "As needed"
+        },
+        {
+          "name": "Foam Rolling - Full Body",
+          "reps": "1 session"
+        },
+        {
+          "name": "Mindful Activities (Nature Walk, Meditation)",
+          "reps": "1 session"
+        }
+      ],
+      "description": "Take a break with a rest day or engage in light activities like yoga or cycling. Release tension with full-body foam rolling and practice mindfulness with activities such as a nature walk or meditation."
+    },
+    {
+      "id": "ACTIVE_RECOVERY_CONDITIONING_VARIATION_3",
+      "name": "Active Recovery and Conditioning",
+      "watchActivityType": "open",
+      "workouts": [
+        {
+          "name": "Cycling (Outdoor or Stationary)",
+          "reps": "30 minutes"
+        },
+        {
+          "name": "Pilates or Yoga",
+          "reps": "1 session"
+        },
+        {
+          "name": "Jumping Jacks",
+          "reps": "3 x 1 minute intervals"
+        },
+        {
+          "name": "Dynamic Stretching Routine",
+          "reps": "1 session"
+        }
+      ],
+      "description": "Opt for active recovery with cycling and enhance flexibility with Pilates or Yoga. Boost cardiovascular health with Jumping Jacks and incorporate dynamic stretches for overall conditioning."
+    },
+    {
+      "id": "FULL_BODY_POWER_CONDITIONING_VARIATION_3",
+      "name": "Day 5: Full Body Power and Conditioning",
+      "watchActivityType": "highIntensityIntervalTraining",
+      "workouts": [
+        {
+          "name": "Hang Snatch",
+          "reps": "4 x 8"
+        },
+        {
+          "name": "Broad Jumps",
+          "reps": "3 x 12"
+        },
+        {
+          "name": "Close Grip Dumbbell Press",
+          "reps": "3 x 12"
+        },
+        {
+          "name": "Battle Ropes Slams",
+          "reps": "3 x 30 seconds"
+        },
+        {
+          "name": "Mountain Climbers",
+          "reps": "3 x 20"
+        },
+        {
+          "name": "Sled Drag",
+          "reps": "3 x 20 yards"
+        }
+      ],
+      "description": "Ignite full-body power with dynamic exercises like Hang Snatch and Broad Jumps. Focus on triceps with Close Grip Dumbbell Press and challenge endurance with Battle Ropes Slams. Conclude with the intensity of Mountain Climbers and Sled Drags."
+    },
+    {
+      "id": "FUNCTIONAL_TRAINING_CORE_VARIATION_3",
+      "name": "Functional Training and Core",
+      "watchActivityType": "functionalStrengthTraining",
+      "workouts": [
+        {
+          "name": "Landmine Rows",
+          "reps": "3 x 12 each arm"
+        },
+        {
+          "name": "Reverse Lunges with Kettlebell",
+          "reps": "3 x 12 each leg"
+        },
+        {
+          "name": "Hammer Strength Machine Bicep Curls",
+          "reps": "3 x 15"
+        },
+        {
+          "name": "Side Plank with Leg Raise",
+          "reps": "3 x 20 seconds each side"
+        },
+        {
+          "name": "Tricep Pushdowns",
+          "reps": "3 x 12"
+        },
+        {
+          "name": "Hanging Knee Raises",
+          "reps": "3 x 15"
+        },
+        {
+          "name": "Russian Twists with Stability Ball",
+          "reps": "3 x 20"
+        }
+      ],
+      "description": "Integrate functional strength with Landmine Rows and Reverse Lunges. Focus on biceps with Hammer Strength Machine Bicep Curls and target triceps with Tricep Pushdowns. Strengthen core muscles with Plank variations and Russian Twists using a Stability Ball."
+    },
+    {
+      "id": "CARDIO_MOBILITY_VARIATION_3",
+      "name": "Cardio and Mobility",
+      "watchActivityType": "open",
+      "workouts": [
+        {
+          "name": "Rowing Machine",
+          "reps": "30 minutes"
+        },
+        {
+          "name": "Foam Rolling - Upper and Lower Body",
+          "reps": "1 session"
+        },
+        {
+          "name": "Dynamic Stretching Routine",
+          "reps": "1 session"
+        }
+      ],
+      "description": "Elevate your heart rate with the Rowing Machine and promote flexibility with targeted foam rolling on both upper and lower body. Complete the session with a dynamic stretching routine for enhanced mobility."
     }
   ]
 }
